@@ -1,0 +1,31 @@
+@font-face {
+    font-family: Montserrat;
+    src: url("/fonts/Montserrat-VariableFont_wght.ttf");
+}
+
+body {
+    font-family: "Montserrat";
+}
+
+.link-to-section{
+    color: black;
+    text-decoration: none;
+}
+
+.link-to-section:visited {
+    color: purple;
+}
+
+.link-to-section:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+.link-to-section:active {
+    color: blue;
+    text-decoration: underline;
+}
+/*
+.special-line:first-line {
+    font-weight: bold;
+}*/
